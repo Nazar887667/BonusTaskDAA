@@ -1,0 +1,6 @@
+RANDOM n=100 : BST height=14, HashTable longest chain=3
+RANDOM n=1000 : BST height=21, HashTable longest chain=4
+RANDOM n=10000 : BST height=34, HashTable longest chain=6
+SORTED n=100 : BST height=100, HashTable longest chain=3
+SORTED n=1000 : BST height=1000, HashTable longest chain=4
+SORTED n=10000 : BST height=10000, HashTable longest chain=6
